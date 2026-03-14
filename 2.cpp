@@ -1,3 +1,10 @@
+输入格式
+一行内输入一串整数，以 0 结束，以空格间隔。
+
+输出格式
+一行内倒着输出这一串整数，以空格间隔。
+
+
 #include<iostream>
 #include<algorithm>
 using namespace std;
