@@ -1,3 +1,6 @@
+
+求三角形的周长，setprecision是关键
+
 #include<iostream>
 #include<cmath>
 #include<iomanip>
